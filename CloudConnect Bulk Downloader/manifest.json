@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "CloudConnect Bulk PDF Downloader",
+  "version": "2.4",
+  "description": "Download multiple invoices or reports from CloudConnect as a single ZIP",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "downloads"
+  ],
+  "host_permissions": [
+    "https://sapcloudconnectportal.net/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "CloudConnect Bulk Downloader"
+  }
+}

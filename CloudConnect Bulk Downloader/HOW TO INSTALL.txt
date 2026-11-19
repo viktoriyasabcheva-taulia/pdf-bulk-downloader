@@ -1,0 +1,55 @@
+CloudConnect Bulk PDF Downloader — Install Guide
+=================================================
+
+WHAT IT DOES
+------------
+On CloudConnect, tick the items you want, click the extension button,
+and it downloads them all in a single ZIP file.
+
+Works on BOTH the Intervention page and the Reports page.
+
+You must be LOGGED IN to CloudConnect for it to work.
+Use Google Chrome (or Microsoft Edge). Not for Safari/Firefox.
+
+
+INSTALL (one time, ~30 seconds)
+-------------------------------
+1. Unzip this file to a folder somewhere you won't delete it
+   (e.g. Documents). Keep the folder — deleting it removes the extension.
+
+2. Open Google Chrome and go to:   chrome://extensions
+
+3. Turn ON "Developer mode" (toggle in the TOP-RIGHT corner).
+
+4. Click "Load unpacked" (top-left).
+
+5. Select the unzipped "CloudConnect Bulk Downloader" folder and click Open/Select.
+
+6. (Optional) Click the puzzle-piece icon in Chrome's toolbar and pin
+   "CloudConnect Bulk PDF Downloader" so its button is always visible.
+
+
+HOW TO USE
+----------
+1. Go to CloudConnect and make sure you are logged in.
+2. Tick the checkboxes of the invoices you want.
+3. Click the extension button in the toolbar.
+4. Click "Download selected as ZIP".
+5. IMPORTANT: leave the little popup window open until it says "Done".
+   Choose where to save the ZIP when prompted.
+
+
+TROUBLESHOOTING
+---------------
+- "No PDFs could be collected" or lots of items skipped:
+  You were probably logged out. Refresh CloudConnect, log back in, try again.
+
+- Nothing happens / button does nothing:
+  Make sure you're on a CloudConnect page (sapcloudconnectportal.net)
+  and that at least one invoice is ticked.
+
+- It downloaded fewer files than expected:
+  Re-run it — usually a dropped session. If it keeps happening, note how
+  many you selected and send feedback.
+
+Works in Google Chrome (and Microsoft Edge). Not for Safari/Firefox.
